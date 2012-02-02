@@ -1,0 +1,22 @@
+
+<blockquote><p>La Binah, construction ou formation (Centre de Cristallisation, de la Forme et donc, pôle Féminin de L'Univers.) ...Le Kabbaliste qui parvient à Binah comprend comment l'univers a pu être formé et, à ce titre, Binah est aussi la sephirah de la compréhension intime des mécanismes primordiaux de toute chose...</p></blockquote>
+
+{% highlight bash linenos %}
+$ cabal install --constraint='xml-conduit ==0.5.1.2' --constraint='http-conduit ==1.2.0' yesod
+$ yesod init
+$ cd binah
+$ cabal install --constraint="crypto-conduit ==0.1.1.2" --constraint="yaml ==0.5.1.2"
+$ yesod devel
+{% endhighlight %}
+
+
+h2. Yesod and Haskell links
+
+* "Learn You a Haskell":http://learnyouahaskell.com/
+* "Real World Haskell":http://book.realworldhaskell.org/
+* Three-hour tutorial on Haskell: "Slides":http://research.microsoft.com/en-us/um/people/simonpj/papers/haskell-tutorial/TasteOfHaskell.pdf , "Part 1":http://blip.tv/file/324976 and "Part 2":http://blip.tv/file/325646
+
+* "A Simple Haskell Web Server":http://lstephen.wordpress.com/2008/02/14/a-simple-haskell-web-server/
+
+* "Yann Esposito - Intermediate Yesod tutorial (fr/en)":http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/
+
