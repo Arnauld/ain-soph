@@ -1,12 +1,12 @@
 h2. Build
 
-{% highlight bash %}
+```bash
 $ cabal install --prefix=$HOME --user
-{% endhighlight %}
+```
 
 h2. Run
 
-{% highlight bash %}
+```bash
 $ malkut yuk
-{% endhighlight %}
+```
 
