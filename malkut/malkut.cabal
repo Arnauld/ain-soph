@@ -1,0 +1,12 @@
+Name:                malkut
+Version:             0.0.1
+Description:         Super cool mega lambdas
+License:             MIT
+License-file:        LICENSE
+Author:              Arnauld
+Maintainer:          arnauld.loyer@gmail.com
+Build-Type:          Simple
+Cabal-Version:       >=1.2
+Executable malkut
+  Main-is:           Malkut.hs
+  Build-Depends:     base >= 3 && < 5
