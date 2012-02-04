@@ -1,10 +1,10 @@
-h2. Build
+## Build
 
 ```bash
 $ cabal install --prefix=$HOME --user
 ```
 
-h2. Run
+## Run
 
 ```bash
 $ malkut yuk
